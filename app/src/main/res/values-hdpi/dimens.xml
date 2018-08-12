@@ -1,0 +1,38 @@
+<resources>
+
+    <dimen name="forgot_password_text_size">12sp</dimen>
+    <dimen name="edittext_text_size">14sp</dimen>
+    <dimen name="price_text_size">15sp</dimen>
+    <dimen name="login_button_text_size">16sp</dimen>
+    <dimen name="title_text_size">13sp</dimen>
+    <dimen name="profile_image">110dp</dimen>
+    <dimen name="merchandise_image">80dp</dimen>
+    <dimen name="app_bar_height">40dp</dimen>
+    <dimen name="custom_dialog_padding">30dp</dimen>
+    <dimen name="custom_dialog_button">15sp</dimen>
+    <dimen name="custom_dialog_text">16sp</dimen>
+    <dimen name="tab_text_size">10sp</dimen>
+    <dimen name="onwards_text_size">10sp</dimen>
+    <dimen name="small_size">7.5sp</dimen>
+    <dimen name="small_size_detail">7sp</dimen>
+    <dimen name="map_view_pager_height">70dp</dimen>
+    <dimen name="home_row_layout_height">150dp</dimen>
+    <dimen name="tab_layout_height">35dp</dimen>
+    <dimen name="bottom_tab">50dp</dimen>
+    <dimen name="layout_height">300dp</dimen>
+    <dimen name="layout_height_second">315dp</dimen>
+    <dimen name="padding_top">2dp</dimen>
+    <dimen name="padding_top_filter">3dp</dimen>
+    <dimen name="padding_left">5dp</dimen>
+
+
+    <!-- Drawer Fragment Text Size Values -->
+    <dimen name="navigation_drawer_width">210dp</dimen>
+    <dimen name="text_size_drawer_fragment">13sp</dimen>
+    <dimen name="image_width_drawer_fragment">66dp</dimen>
+    <dimen name="image_width_drawer_fragment_layout">88dp</dimen>
+    <!-- Drawer Fragment Text Size Values Ends -->
+
+    <integer name="add_in_ticket">7</integer>
+
+</resources>

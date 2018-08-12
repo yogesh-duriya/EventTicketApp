@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- TOP STROKE-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/view_corner_color" />
+
+        </shape>
+    </item>
+    <!-- BOTTOM STROKE-->
+    <item android:top="5dp" android:right="1dp" android:left="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/divider_color_end" />
+        </shape>
+    </item>
+
+    <!-- MAIN SHAPE -->
+    <item android:top="1dp" android:bottom="1dp" android:right="1dp" android:left="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/background_color" />
+        </shape>
+    </item>
+</layer-list>

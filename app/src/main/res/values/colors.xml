@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dark_grey">#535353</color>
+    <color name="light_grey">#B4B4B4</color>
+    <color name="grey">#6F6F6F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="button_color">#D64179</color>
+    <color name="sign_up_bg">#F3F3F3</color>
+    <color name="hint_color">#868686</color>
+    <color name="light_green">#6EB02F</color>
+    <color name="home_bg">#F3F3F3</color>
+    <color name="start_color">#990E47</color>
+    <color name="end_color">#BF1159</color>
+    <color name="center_color">#AA1050</color>
+    <color name="filter_divider">#DBDBDB</color>
+    <color name="white_grey">#E3E4E9</color>
+    <color name="filter_header">#2B2B2B</color>
+    <color name="divider_color_start">#9F1E54</color>
+    <color name="divider_color_end">#C32165</color>
+    <color name="background_color">#F2F2F2</color>
+    <color name="total_event_color">#F57953</color>
+    <color name="total_titkerts_color">#78818A</color>
+    <color name="total_online_color">#0EADD4</color>
+    <color name="total_titketsold_color">#DF577D</color>
+    <color name="total_titketsold_last_color">#9E4B9D</color>
+    <color name="pic_chart_color">#4F81BC</color>
+    <color name="pic_chart_color1">#4F81BC</color>
+    <color name="view_corner_color">#DFDFDF</color>
+    <color name="view_corner_color_dark">#E9E9E9</color>
+
+    <color name="header">#D11C69</color>
+    <color name="custom_dialog">#99000000</color>
+</resources>

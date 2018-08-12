@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/app_bar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.endive.eventplanner.view.CircularImageView
+            android:id="@+id/profile_image"
+            android:layout_width="@dimen/merchandise_image"
+            android:layout_height="@dimen/merchandise_image"
+            android:layout_marginTop="10dp"
+            android:background="@mipmap/no_image" />
+
+        <TextView
+            android:id="@+id/company_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/title_text_size" />
+
+        <TextView
+            android:id="@+id/organizer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textColor="@color/button_color"
+            android:textSize="@dimen/forgot_password_text_size" />
+
+        <TextView
+            android:id="@+id/web_site_url"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/filter_divider"
+            android:textSize="@dimen/forgot_password_text_size" />
+
+    </LinearLayout>
+
+    <include
+        layout="@layout/four_tabs_layout"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="@dimen/tab_layout_height" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+</LinearLayout>

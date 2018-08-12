@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81880132578",
+    "project_id": "eventmanagement-f260d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81880132578:android:a06d88d31191269b",
+        "android_client_info": {
+          "package_name": "com.endive.eventplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81880132578-t60kk4rgjk6n3vms0inq0u04ju3e2r0a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "81880132578-a1pspqi687jsqsonin7o0rngaqtmqo44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.endive.eventplanner",
+            "certificate_hash": "f26d41b486c0876f41a6a43563e6f2e3d0a344e6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4pFiQ6uyOO5fKmkOrdeQCyf25qdnnEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
